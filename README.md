@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I’m @Tatai47
+<br>
+👀 I’m interested in ...Ethical Hacking,Computers, Mobile or Electronics devices
+<br>
+🌱 I’m currently learning ... PROGRAMMING LANGUAGES ANY 
+<br>
+💞️ I’m looking to collaborate on ... Discord or Facebook
+<br>
+📫 How to reach me ...Dscord Id Tatai#9013
+<br>
+-I have a youtube channel Link : https://www.youtube.com/channel/UCOg9eqstbupXXn1hxymVUzw
+<br>
+-Facebook ID Tatai Chakraborty ()
+
