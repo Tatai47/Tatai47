@@ -1,31 +1,47 @@
-### Hi there 👋
 
-<!--
-**Tatai47/Tatai47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mee.gif" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  
+  <a href="mailto:vandal.social@proton.me" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mail.png" />
+  </a>
+  <a href="https://gitlab.com/VandalByte" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/gitlab.png" />
+  </a>
+  <a href="https://www.reddit.com/user/VandalByte" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/reddit.png" />
+  </a>
+  <a href="https://twitter.com/VandalByte" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/twitter.png" />
+  </a>
+  <a href="https://ko-fi.com/VandalByte" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/ko-fi.png" />
+  </a>
+  <a href="https://www.pling.com/u/ghost-black" target="_blank">
+    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/pling.png" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 Hi, I’m @Tatai47
-<br>
-👀 I’m interested in ...Ethical Hacking,Computers, Mobile or Electronics devices
-<br>
-🌱 I’m currently learning ... PROGRAMMING LANGUAGES ANY 
-<br>
-💞️ I’m looking to collaborate on ... Discord or Facebook
-<br>
-📫 How to reach me ...Dscord Id Tatai#9013
-<br>
--I have a youtube channel Link : https://www.youtube.com/channel/UCOg9eqstbupXXn1hxymVUzw
-<br>
--Facebook ID Tatai Chakraborty ()
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VandalByte&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandalByte&theme=chartreuse-dark&hide_border=true" />
+</p>
 
- 
+<p align="left">
+  ㅤ<img width="20%" src="https://img.shields.io/badge/repositories-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
+</p>
+  
+<p align="center">
+  <a href="https://github.com/VandalByte/dedsec-grub2-theme">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=dedsec-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/VandalByte/darkmatter-grub2-theme">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=darkmatter-grub2-theme&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/VandalByte/grub-tweaks">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  </a>
+</p>
