@@ -1,27 +1,27 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mee.gif" />
+  <img src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/mee.gif" />
 </p>
 
 <p align="center">
   
-  <a href="mailto:vandal.social@proton.me" target="_blank">
+  <a href="mailto:chittajit47@gmail.com" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mail.png" />
   </a>
-  <a href="https://gitlab.com/VandalByte" target="_blank">
+  <a href="https://github.com/Tatai47" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/gitlab.png" />
   </a>
-  <a href="https://www.reddit.com/user/VandalByte" target="_blank">
+  <a href="https:https://www.reddit.com/user/Tatai47" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/reddit.png" />
   </a>
-  <a href="https://twitter.com/VandalByte" target="_blank">
+  <a href="https:https://mobile.twitter.com/ChittajitC" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/twitter.png" />
   </a>
-  <a href="https://ko-fi.com/VandalByte" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/ko-fi.png" />
+  <a href="https://www.facebook.com/chittajit.chakraborty.1/" target="_blank">
+    <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/facebook.png" />
   </a>
-  <a href="https://www.pling.com/u/ghost-black" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/pling.png" />
+  <a href="https://discord.gg/QnWTsB6ZYw" target="_blank">
+    <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/discord.png" />
   </a>
 </p>
 
