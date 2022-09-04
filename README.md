@@ -25,11 +25,10 @@
   </a>
   
   <!-- Facebook -->
- <!--
      <a href="https://www.facebook.com/chittajit.chakraborty.1/" target="_blank">
-    <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/facebook.png" />
+    <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/fd0cbfde842cff9dde75e6bef4c307fe3459b561/Facebook.png" />
   </a>
-  -->
+  
   <!-- Discord -->
   <a href="https://discord.gg/QnWTsB6ZYw" target="_blank">
     <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/discord.png" />
