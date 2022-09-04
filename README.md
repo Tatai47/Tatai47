@@ -25,7 +25,7 @@
   </a>
   
   <!-- Facebook -->
- <! --
+ <!--
      <a href="https://www.facebook.com/chittajit.chakraborty.1/" target="_blank">
     <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/facebook.png" />
   </a>
