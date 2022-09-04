@@ -5,18 +5,26 @@
 
 <p align="center">
   
+  <!-- mail -->
   <a href="mailto:chittajit47@gmail.com" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mail.png" />
   </a>
-  <a href="https://github.com/Tatai47" target="_blank">
+  
+  
+  <!-- Gitlab -->
+  <a href="[https://github.com/Tatai47](https://app.circleci.com/pipelines/github/Tatai47)" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/gitlab.png" />
   </a>
   <a href="https:https://www.reddit.com/user/Tatai47" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/reddit.png" />
   </a>
+  
+  <!-- Twitter -->
   <a href="https:https://mobile.twitter.com/ChittajitC" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/twitter.png" />
   </a>
+  
+  <!-- Facebook -->
   <a href="https://www.facebook.com/chittajit.chakraborty.1/" target="_blank">
     <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/facebook.png" />
   </a>
