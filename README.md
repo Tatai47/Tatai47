@@ -12,7 +12,7 @@
   
   
   <!-- Gitlab -->
-  <a href="[https://github.com/Tatai47](https://app.circleci.com/pipelines/github/Tatai47)" target="_blank">
+  <a href="https://gitlab.com/Tatai47" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/gitlab.png" />
   </a>
   <a href="https:https://www.reddit.com/user/Tatai47" target="_blank">
