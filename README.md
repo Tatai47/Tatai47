@@ -7,16 +7,18 @@
   
   <!-- mail -->
   <a href="mailto:chittajit47@gmail.com" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/mail.png" />
+    <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/45cb71048c2763a51eda31d723e9d2464812eec9/mail.png" />
   </a>
   
   
-  <!-- Gitlab -->
-  <a href="https://gitlab.com/Tatai47" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/gitlab.png" />
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/tatai_t5/" target="_blank">
+    <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/45cb71048c2763a51eda31d723e9d2464812eec9/instagram.png" />
   </a>
-  <a href="https:https://www.reddit.com/user/Tatai47" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/reddit.png" />
+  
+  <!-- Youtube -->
+  <a href="https://www.youtube.com/channel/UCOg9eqstbupXXn1hxymVUzw" target="_blank">
+    <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/5cdcbf52e236c930bc7530e8f7221f0ca2bca975/youtube.png" />
   </a>
   
   <!-- Twitter -->
