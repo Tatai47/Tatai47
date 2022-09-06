@@ -22,7 +22,7 @@
   </a>
   
   <!-- Twitter -->
-  <a href="https:https://mobile.twitter.com/ChittajitC" target="_blank">
+  <a href="https://mobile.twitter.com/ChittajitC" target="_blank">
     <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/twitter.png" />
   </a>
   
