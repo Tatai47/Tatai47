@@ -23,7 +23,7 @@
   
   <!-- Twitter -->
   <a href="https://mobile.twitter.com/ChittajitC" target="_blank">
-    <img width="10%" src="http://raw.githubusercontent.com/VandalByte/VandalByte/main/media/twitter.png" />
+    <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/6623da4a6cd2b001f032e32145d9bb8e79954864/twitter.png" />
   </a>
   
   <!-- Facebook -->
