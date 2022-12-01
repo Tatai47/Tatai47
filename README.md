@@ -33,6 +33,8 @@
   
   <!-- Discord -->
   <a href="https://discord.gg/QnWTsB6ZYw" target="_blank">
+  <br><br><br>
+  <a href="https://www.msn.com/en-in/play?cgfrom=cg_prong1_flyoutHeader2&ocid=winp1taskbar&cvid=6db3e33415ca4c08c672378ecd136a65"><h1>Play games online free</h1></a>
     <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/discord.png" />
   </a>
 </p>
