@@ -58,7 +58,7 @@
   </a>
    
     <a href="https://www.msn.com/en-in/play?cgfrom=cg_prong1_flyoutHeader2&ocid=winp1taskbar&cvid=6db3e33415ca4c08c672378ecd136a65" target="_blank">
-      <h1> Play Games Online For Free </h1>
+      Play Games Online For Free
     </a>
 
 </p>
