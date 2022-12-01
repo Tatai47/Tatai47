@@ -33,8 +33,7 @@
   
   <!-- Discord -->
   <a href="https://discord.gg/QnWTsB6ZYw" target="_blank">
-  <br><br><br>
-    <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/discord.png" />
+  <img width="10%" src="https://github.com/Tatai47/Tatai47/blob/8eede2de2678ab43b5fd2397bb90c5326a40e5e0/discord.png" />
   </a>
 </p>
 
