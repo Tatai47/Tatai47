@@ -56,4 +56,7 @@
   <a href="https://github.com/VandalByte/grub-tweaks">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
+  <a href="https://www.msn.com/en-in/play?cgfrom=cg_prong1_flyoutHeader2&ocid=winp1taskbar&cvid=6db3e33415ca4c08c672378ecd136a65" target="_blank">
+    <h1> Play Online Games Free </h1>
+  </a>
 </p>
