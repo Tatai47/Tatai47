@@ -68,7 +68,7 @@
 </p>
 <div align="center">
 
-# 🖥️ Programming Windows
+# 🖥️ Tatai47 Repository public Profile
 **A Multidisciplinary Development Hub for the Windows Ecosystem**
 
 [![Stars](https://img.shields.io/badge/Tatai47-Chittajit_Chakraborty-blue?style=for-the-badge&labelColor=silver&color=blue
