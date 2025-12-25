@@ -41,7 +41,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VandalByte&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandalByte&theme=chartreuse-dark&hide_border=true" />
 </p>
-
+<!--
 <p align="left">
   ㅤ<img width="20%" src="https://img.shields.io/badge/repositories-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
 </p>
@@ -56,6 +56,7 @@
   <a href="https://github.com/VandalByte/grub-tweaks">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=VandalByte&repo=grub-tweaks&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   </a>
+  -->
   <h1>
   <a href="https://www.msn.com/en-in/play?cgfrom=cg_prong1_flyoutHeader2&ocid=winp1taskbar&cvid=6db3e33415ca4c08c672378ecd136a65" target="_blank">
      Play Online Games Free 
