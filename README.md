@@ -37,10 +37,10 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VandalByte&show_icons=true&theme=chartreuse-dark&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VandalByte&theme=chartreuse-dark&hide_border=true" />
-</p>
+</p> -->
 <!--
 <p align="left">
   ㅤ<img width="20%" src="https://img.shields.io/badge/repositories-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
